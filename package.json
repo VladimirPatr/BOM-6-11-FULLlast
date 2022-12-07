@@ -1,0 +1,8 @@
+{
+  "name": "bom-11-full",
+  "scripts": {},
+  "author": "Vladimir Patrikeev",
+  "dependencies": {
+    "redom": "^3.29.1"
+  }
+}

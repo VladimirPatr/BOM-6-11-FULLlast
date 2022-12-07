@@ -1,0 +1,8 @@
+{
+  "name": "bom11last",
+  "scripts": {},
+  "author": "Vladimir",
+  "dependencies": {
+    "redom": "^3.29.1"
+  }
+}
